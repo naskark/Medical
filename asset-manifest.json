@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Medical/static/css/main.421ff6bb.css",
+    "main.js": "/Medical/static/js/main.193c943c.js",
+    "static/js/787.924980d3.chunk.js": "/Medical/static/js/787.924980d3.chunk.js",
+    "static/media/Frames.png": "/Medical/static/media/Frames.5a4afc6c663bb421253e.png",
+    "static/media/Frame.png": "/Medical/static/media/Frame.ca18e2f09f30a57531a8.png",
+    "static/media/OBJECTS.png": "/Medical/static/media/OBJECTS.6ca7d13df113dbdaf5c4.png",
+    "static/media/MedicalTourism.png": "/Medical/static/media/MedicalTourism.c3143d9b9d868143e769.png",
+    "static/media/Group.png": "/Medical/static/media/Group.a6f02474eb5f7864fa84.png",
+    "static/media/Poland.png": "/Medical/static/media/Poland.bdf64f2e0e4a960a3f7b.png",
+    "static/media/Ireland.png": "/Medical/static/media/Ireland.a671e6ed0dea2e644a4e.png",
+    "static/media/Rating.png": "/Medical/static/media/Rating.35e8c97520b85eec9178.png",
+    "index.html": "/Medical/index.html",
+    "main.421ff6bb.css.map": "/Medical/static/css/main.421ff6bb.css.map",
+    "main.193c943c.js.map": "/Medical/static/js/main.193c943c.js.map",
+    "787.924980d3.chunk.js.map": "/Medical/static/js/787.924980d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.421ff6bb.css",
+    "static/js/main.193c943c.js"
+  ]
+}
